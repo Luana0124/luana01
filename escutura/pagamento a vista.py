@@ -22,4 +22,7 @@ match(opcao):
      
      case2:
      parcelas=int(input("/n digite a quantidade de parcelas:"))
-     pre
+     preco_parcelado=preco_produto/parcelas
+     preco_final=preco_produto
+
+       print(f"/nprec")
