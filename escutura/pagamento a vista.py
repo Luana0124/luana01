@@ -25,4 +25,10 @@ match(opcao):
      preco_parcelado=preco_produto/parcelas
      preco_final=preco_produto
 
-       print(f"/nprec")
+       print(f"/npreco do produto:R$(preco_produto)")
+       print(f"/nforma de pagamentoa prazo")
+       print(f!"quantidade de parcelas:R$(preco_parcelado :2+)")
+       print(f"valor parcelas:R$preco_parcelado.2+")
+       print(f"totala prazo:R$(preco_final: 2+)")
+      case:
+         print("opcão invàlida/n")
