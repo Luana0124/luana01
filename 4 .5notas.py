@@ -13,8 +13,9 @@ for i in range(4):
 
     print(f"Media (media)")
     if media<=7:
+
         print ("Aprovado.")
     else:
-        print("Resprovado.")
+      print("Resprovado.")
 
-        print("=== FIM===")
+    print("=== FIM===")
