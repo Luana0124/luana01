@@ -10,5 +10,9 @@ while nota <0 or nota>10:
     
     if nota<0 or nota>10:
     
-  else:
-        print(f"nota(nota)")
+    else:
+
+
+  soma = primeira_nota +segunda nota
+
+   print(f"nota(nota)")
