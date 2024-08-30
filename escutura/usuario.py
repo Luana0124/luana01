@@ -1,11 +1,10 @@
 import os
-os.system("cll|| clear")
-soma=0
-media=0
-a=3
+os.system("cls||clear")
 
-for i in range(a):
-    nota=float(input(f"digite sua nota:"))
+
+
+for i in range(3):
+    nota=float(input("digite sua nota":))
     while True:
         if nota<0 or nota>10:
             print("nota incoreta:")
@@ -13,12 +12,10 @@ for i in range(a):
         else:
             break
     soma=nota+soma
-    media=soma/a
+    media=soma/3
 print(soma,media)
 
 if media>=7:
    print(" aprovado")
    if media>=5:
        print("reprovado")
-
-
