@@ -8,3 +8,7 @@ senha=input(" digite sua senha:")
 if login_salvo== login_salvo and senha == senha_salva: 
 
        print("bem vindo!")
+     break
+
+    else:
+      print("login ou invalidos")
