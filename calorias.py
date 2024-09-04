@@ -11,4 +11,4 @@ while True:
         print(" o numero de cada refeicao:")
         calorias_total+=calorias
     else:
-        break:
+      break
