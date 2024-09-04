@@ -1,5 +1,5 @@
 import os
-os.system("cll|| clear")
+os.system("cls|| clear")
 
 print("laco de repeticao ")
  
