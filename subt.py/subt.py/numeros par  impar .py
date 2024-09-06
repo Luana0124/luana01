@@ -8,8 +8,7 @@ def verficar_numero(numero):
     else:
 
         print("impar.")
-
-#Entrada de dados.
+ #Entrada de dados.
 print("===solicitando dados===")
 numero=int(input("digite um numero:"))
 
