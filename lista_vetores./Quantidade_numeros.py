@@ -2,7 +2,7 @@ import os
 os.system("cls|| clear")
 
 QUANTIDADE_NUMEROS=3
-lista_pares_positivos={}
+lista_pares_positivos=[]
 
 #entrada.
 print("/n===solicintado dados===")
@@ -19,5 +19,5 @@ for i in range(QUANTIDADE_NUMEROS):
 
             # saida.
             print("/n===exibindo resultado===")
-            for i, numero in enumerate(reversed)(lista_pares_positivos)):
-              print(f"{len(lista_pares_positivos)}")
+for i, numero in enumerate(reversed(lista_pares_positivos)):
+    print(f"{len(lista_pares_positivos)}")
